@@ -3,8 +3,8 @@
 
 Reason for development: 
 previous versions :
-- Version 1 coded with flask
-- Version 2 coded with c#
+- <a href="https://github.com/f3riend/quickLogV1">Version 1 coded with flask  < / a >
+- <a href="https://github.com/f3riend/quickLogV2"> Version 2 coded with c#< / a >
 
 When I wrote it with flask I was having trouble converting it to an exe file and it was also opening a little late, in version 2 I wrote it with c# for the exe event but it also creates an installation file and I have to delete it after installing it for each computer, if it is not my computer, so I developed this version.
 
