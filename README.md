@@ -37,6 +37,7 @@ Additions:
 - Will open on default chrome profile
 - If Chrome is not installed, it will automatically install and run the program
 - It will run faster compared to previous versions
+- You can close the sub-window by pressing esc and your sessions will still be open
 
 Disadvantages:
 Take care not to rush when using it: the reason for this is that although it does not cause problems on fast internet, you may experience problems on slow internet.
