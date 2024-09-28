@@ -31,7 +31,10 @@ After installing it, you need to edit the passwords.json file according to yours
 
 You can add or not add the passwords.json file according to your request while making the exe file, if you add it, you need to print it again in case of password change, but if you do not add it, it will not give an error as long as it is in the same directory, so you can change your passwords by editing the file whenever you want.
 
+
+
 ```bash
+pip install -r requirements.txt
 pyinstaller --onefile --add-data “assets;assets” --add-data “passwords.json;.” main.py
 ```
 
