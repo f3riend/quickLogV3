@@ -80,9 +80,13 @@ class LoginSystem:
         self.steamPath = "https://store.steampowered.com/login/?redir=&redir_ssl=1&snr=1_4_600__global-header"
         self.discordPath = "https://discord.com/login"
 
+        self.username = os.getlogin()
+        self.profilePath = f"C:/Users/{self.username}/AppData/Local/Google/Chrome/User Data"
+
         self.options = Options()
         self.options.add_experimental_option("detach", True)
         self.options.add_argument("--disable-blink-features=AutomationControlled")
+        self.options.add_argument(f"user-data-dir={self.profilePath}")
 
         self.driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=self.options)
         self.driver.maximize_window()
