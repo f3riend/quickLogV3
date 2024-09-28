@@ -9,8 +9,16 @@ previous versions :
 When I wrote it with flask I was having trouble converting it to an exe file and it was also opening a little late, in version 2 I wrote it with c# for the exe event but it also creates an installation file and I have to delete it after installing it for each computer, if it is not my computer, so I developed this version.
 
 
+
 Purpose :
 When I'm not on my own computer, I can run this program on the device I plug my flash drive into and it automatically logs me into my accounts quickly.
+You can quickly log in to your Google accounts, in this project you can quickly log in to these accounts:
+
+- Gmail
+- Instagram
+- Discord
+- Github
+- Steam
 
 
 Important :
