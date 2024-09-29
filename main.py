@@ -164,10 +164,10 @@ class LoginSystem:
             self.open_new_tab(self.discordPath)
             self.driver.switch_to.window(self.driver.window_handles[-1])
 
-            emailBox = WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.XPATH, '//*[@id="uid_10"]')))
+            emailBox = WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.XPATH, '//*[@id="uid_7"]')))
             emailBox.send_keys(email)
 
-            passwordBox = WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.XPATH, '//*[@id="uid_12"]')))
+            passwordBox = WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.XPATH, '//*[@id="uid_9"]')))
             passwordBox.send_keys(password)
 
             self.driver.find_element(By.XPATH, '//*[@id="app-mount"]/div[2]/div[1]/div[1]/div/div/div/div/form/div[2]/div/div[1]/div[2]/button[2]').click()
