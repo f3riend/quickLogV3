@@ -3,4 +3,4 @@ webdriver-manager
 pynput
 pyautogui
 icecream
-tkinter
+tk
