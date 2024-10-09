@@ -3,4 +3,4 @@ webdriver-manager
 pynput
 pyautogui
 icecream
-tkinter  # This is included with Python and may not need to be listed
+tkinter
