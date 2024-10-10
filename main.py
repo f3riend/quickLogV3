@@ -81,11 +81,15 @@ class LoginSystem:
         self.discordPath = "https://discord.com/login"
 
         self.username = os.getlogin()
-        self.profilePath = f"C:/Users/{self.username}/AppData/Local/Google/Chrome/User Data"
+        self.profilePath = f"C:/Users/{self.username}/AppData/Local/Google/Chrome/User Data/Default/"
 
         self.options = Options()
         self.options.add_experimental_option("detach", True)
+        self.options.add_experimental_option("excludeSwitches", ["enable-automation"])
+        self.options.add_experimental_option('useAutomationExtension', False)
         self.options.add_argument("--disable-blink-features=AutomationControlled")
+        self.options.add_argument("--disable-popup-blocking")
+        self.options.add_argument("--disable-save-password-bubble")
         self.options.add_argument(f"user-data-dir={self.profilePath}")
 
         self.driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=self.options)
