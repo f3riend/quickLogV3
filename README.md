@@ -21,10 +21,13 @@ You can quickly log in to your Google accounts, in this project you can quickly 
 - Github
 - Steam
 
-
-![Logo](https://github.com/f3riend/quickLogV3/blob/main/quickLog.png) <br>
-![Preview](https://github.com/f3riend/quickLogV3/blob/main/quickLogPreview.png)
-![Main](https://github.com/f3riend/quickLogV3/blob/main/quickLogPreview2.png)
+<p align="center">
+  <img src="https://github.com/f3riend/quickLogV3/blob/main/quickLog.png" alt="Logo" />
+  <br>
+  <img src="https://github.com/f3riend/quickLogV3/blob/main/quickLogPreview.png" alt="Preview" />
+  <br>
+  <img src="https://github.com/f3riend/quickLogV3/blob/main/quickLogPreview2.png" alt="Main" />
+</p>
 
 
 **Important:**
