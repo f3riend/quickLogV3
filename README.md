@@ -22,6 +22,11 @@ You can quickly log in to your Google accounts, in this project you can quickly 
 - Steam
 
 
+![Logo](https://github.com/f3riend/quickLogV3/blob/main/quickLog.png) <br>
+![Preview](https://github.com/f3riend/quickLogV3/blob/main/quickLogPreview.png)
+![Main](https://github.com/f3riend/quickLogV3/blob/main/quickLogPreview2.png)
+
+
 **Important:**
 
 After installing it, you need to edit the passwords.json file according to yourself, and if you are going to log in via gmail, you need to delay with sleep(180) for emails that require 2-step verification, in my case, my 3rd email address requires it.
