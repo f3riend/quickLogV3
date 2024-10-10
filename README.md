@@ -28,9 +28,11 @@ You can quickly log in to your Google accounts, in this project you can quickly 
 - Steam
 
 <p align="center">
+  <br><br><br>
   <img src="https://github.com/f3riend/quickLogV3/blob/main/quickLogPreview.png" alt="Preview" />
   <br><br><br>
   <img src="https://github.com/f3riend/quickLogV3/blob/main/quickLogPreview2.png" alt="Main" />
+  <br><br><br>
 </p>
 
 
