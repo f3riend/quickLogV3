@@ -48,7 +48,7 @@ setx PATH "%PATH%;%USERPROFILE%\AppData\Roaming\Python\Python312\Scripts"
 
 ```bash
 pip install -r requirements.txt
-pyinstaller --onefile --noconsole --add-data "assets;assets" --add-data "passwords.json;." main.py
+pyinstaller --onefile --noconsole --add-data "assets;assets" --add-data "passwords.json;." --icon=quickLog.ico main.py
 ```
 
 
