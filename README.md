@@ -23,9 +23,9 @@ You can quickly log in to your Google accounts, in this project you can quickly 
 
 <p align="center">
   <img src="https://github.com/f3riend/quickLogV3/blob/main/quickLog.png" alt="Logo" />
-  <br>
+  <br><br><br>
   <img src="https://github.com/f3riend/quickLogV3/blob/main/quickLogPreview.png" alt="Preview" />
-  <br>
+  <br><br><br>
   <img src="https://github.com/f3riend/quickLogV3/blob/main/quickLogPreview2.png" alt="Main" />
 </p>
 
