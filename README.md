@@ -1,6 +1,12 @@
 # quickLogV3
 
 
+<p align="center">
+  <img src="https://github.com/f3riend/quickLogV3/blob/main/quickLog.png" alt="Logo" />
+  <br><br><br>
+</p>
+
+
 **Reason for development:**
 
 When I wrote it with flask I was having trouble converting it to an exe file and it was also opening a little late, in version 2 I wrote it with c# for the exe event but it also creates an installation file and I have to delete it after installing it for each computer, if it is not my computer, so I developed this version.
@@ -22,8 +28,6 @@ You can quickly log in to your Google accounts, in this project you can quickly 
 - Steam
 
 <p align="center">
-  <img src="https://github.com/f3riend/quickLogV3/blob/main/quickLog.png" alt="Logo" />
-  <br><br><br>
   <img src="https://github.com/f3riend/quickLogV3/blob/main/quickLogPreview.png" alt="Preview" />
   <br><br><br>
   <img src="https://github.com/f3riend/quickLogV3/blob/main/quickLogPreview2.png" alt="Main" />
