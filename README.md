@@ -16,6 +16,8 @@ When I wrote it with flask I was having trouble converting it to an exe file and
 - <a href="https://github.com/f3riend/quickLogV1">Version 1 coded with flask</a>
 - <a href="https://github.com/f3riend/quickLogV2"> Version 2 coded with c#</a>
 
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/YtpKfUF81B4" title="quickLoginV3 &amp; Selenium   #githubprojects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 **Purpose :**
 When I'm not on my own computer, I can run this program on the device I plug my flash drive into and it automatically logs me into my accounts quickly.
