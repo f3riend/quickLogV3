@@ -16,7 +16,8 @@ When I wrote it with flask I was having trouble converting it to an exe file and
 - <a href="https://github.com/f3riend/quickLogV1">Version 1 coded with flask</a>
 - <a href="https://github.com/f3riend/quickLogV2"> Version 2 coded with c#</a>
 
-[![quickLoginV3 & Selenium](http://img.youtube.com/vi/YtpKfUF81B4/0.jpg)](http://www.youtube.com/watch?v=YtpKfUF81B4 "quickLoginV3 & Selenium #githubprojects")
+**Watch on YouTube:**
+[Watch quickLoginV3 & Selenium on YouTube](https://www.youtube.com/watch?v=YtpKfUF81B4)
 
 
 
