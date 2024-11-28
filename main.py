@@ -12,7 +12,7 @@ from icecream import ic
 from time import sleep
 import subprocess
 import pyautogui
-import winreg
+import winreg # if os is windows
 import socket
 import json
 import sys
@@ -59,6 +59,23 @@ def checkInternet():
         return False
 
 
+
+'''
+
+if your operating system is not windows, remove the following
+
+if not  checkInternet():
+    messagebox.showinfo("Internet","Please connect to internet")
+    sys.exit()
+
+
+
+if not isChromeInstalled():
+    os.system("winget install -e --id Google.Chrome")
+    messagebox.showinfo("Quick Log","Chrome downloaded...")
+
+
+'''
 
 if not  checkInternet():
     messagebox.showinfo("Internet","Please connect to internet")
